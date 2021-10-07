@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
+### Hi there 👋 I'm [Gazi Shifat Reza](https://www.linkedin.com/in/shifatconst/)
 > Software Developer at [Akij Group](https://www.akij.net/)
 
 
