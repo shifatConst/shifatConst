@@ -1,5 +1,3 @@
-<img src="https://github.com/shifatConst/shifatConst/blob/master/svg.svg"/>
-
 ### Hi there 👋 I'm [Gazi Shifat Reza](https://www.linkedin.com/in/shifatconst/)
 > Software Developer at [Akij Group](https://www.akij.net/)
 
@@ -28,7 +26,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 [![Shifat Reza GitHub Stats](https://github-readme-stats.vercel.app/api?username=shifatConst&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/shifatConst)
 
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifatConst&langs_count=5&theme=vue-dark&layout=compact" alt="Most Used Languages" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifatConst&theme=vue-dark)](https://shifatConst.github.io/)
 
 <h3> 🤝🏻 Connect with Me </h3>
