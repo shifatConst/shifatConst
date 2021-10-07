@@ -6,7 +6,7 @@
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I am Fontend Based Full Stack Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
@@ -46,15 +46,12 @@ I have excellent design & coding skills, as well as an ability to convert requir
 [![Shifat Reza GitHub Stats](https://github-readme-stats.vercel.app/api?username=shifatConst&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/shifatConst)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifatConst&langs_count=5&theme=vue-dark&layout=compact" alt="Most Used Languages" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifatConst&theme=vue-dark)](https://shifatConst.github.io/)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/shifatconst/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@shifatconst-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:shifatreza44@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shifatreza44@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
