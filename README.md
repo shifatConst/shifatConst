@@ -25,7 +25,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
 
-#### Currently working on:
+### Currently working on:
 
 <a src="https://www.tutlane.com/tutorial/csharp"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><a/>
 <a src="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0"><img src="https://img.icons8.com/color/48/000000/asp.png"/><a/>
