@@ -24,7 +24,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
-|---|---|---|---|---|---|
 
 #### Currently working on:
 
@@ -34,14 +33,13 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Tools 🛠️
 
-<img src="https://img.icons8.com/color/48/000000/redux.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<a><img src="https://img.icons8.com/color/48/000000/redux.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/git.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/firebase.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/heroku.png"/><a/>
 
-|---|---|---|---|---|---|---|---|---|
 
 ### Github Stats
 
