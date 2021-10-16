@@ -46,6 +46,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 [![Shifat Reza GitHub Stats](https://github-readme-stats.vercel.app/api?username=shifatConst&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/shifatConst)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifatConst&langs_count=5&theme=vue-dark&layout=compact" alt="Most Used Languages" /></p>
+ 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shifatConst)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
